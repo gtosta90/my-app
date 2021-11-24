@@ -20,7 +20,7 @@ jobs:
           node-version: '14'
           
       - name: Install dependencies
-        run: yarn intall
+        run: yarn install
         
       - name: Run tests
         run: yarn test --watchAll false
