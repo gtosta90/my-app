@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Palmeira campeão da Liberta
-        </a>
+          Learn React
+        </a> Teste Gabriel
       </header>
     </div>
   );
